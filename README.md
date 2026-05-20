@@ -1,99 +1,195 @@
-<h1 align="center">Hola 👋, Soy Benedig Raul</h1>
+<div align="center">
 
-<h3 align="center">
-💻 Software Engineer | 🤖 AI Developer | 🚀 Full Stack Developer
-</h3>
+# 💻 BENEDIG RAUL HUILLCAHUAMAN ROJO
+
+### 🚀 Software Engineer | 🤖 AI Developer | ☁️ Cloud & IT Support
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning;Flutter+Developer;Cloud+%26+IT+Support;Cybersecurity+Enthusiast" />
+
+</div>
 
 ---
 
-# 🚀 Sobre mí
+# 👨‍💻 Sobre Mí
 
 🎓 Técnico en Ingeniería de Software con Inteligencia Artificial – SENATI  
-💡 Apasionado por el desarrollo de software, IA y tecnología  
-🖥️ Experiencia en Soporte TI, Desarrollo Web y Sistemas  
-🌎 Cusco, Perú  
-📚 Aprendizaje continuo en Cloud, IA y Ciberseguridad  
+💡 Apasionado por el desarrollo de software, inteligencia artificial y tecnología  
+🖥️ Experiencia en Soporte TI corporativo, sistemas y desarrollo web  
+☁️ Con conocimientos en Azure, Active Directory y Cloud Computing  
+📍 Cusco, Perú  
 
 ---
 
-# 🛠️ Tecnologías y Herramientas
+# 🚀 Tecnologías y Herramientas
 
-## 🚀 Frontend
+<table>
+<tr>
+<td valign="top" width="33%">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+## 🎨 Frontend
 
----
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap" />
+
+</div>
+
+</td>
+
+<td valign="top" width="33%">
 
 ## ⚙️ Backend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,django,nodejs" />
 
-## 📱 Desarrollo Móvil
+</div>
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+</td>
 
----
-
-## 🗄️ Bases de Datos
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
-
----
+<td valign="top" width="33%">
 
 ## ☁️ Cloud & Tools
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,azure,vscode" />
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📱 Desarrollo Móvil
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
+
+</div>
+
+---
+
+# 🗄️ Bases de Datos
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+
+</div>
+
+---
+
+# 🤖 Inteligencia Artificial & Data Science
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn" />
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+</div>
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Benedig19&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benedig19&layout=compact&theme=tokyonight" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Benedig19&show_icons=true&theme=tokyonight&hide_border=true"/>
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benedig19&layout=compact&theme=tokyonight&hide_border=true"/>
 
-# 🔥 Proyectos Destacados
-
-🚀 Sistema de Inventario con Django  
-🚀 Aplicaciones Flutter  
-🚀 Sistemas Web Full Stack  
-🚀 Automatización y Soporte TI  
-🚀 Dashboards Power BI  
+</div>
 
 ---
 
-# 📫 Contacto
+# 🔥 GitHub Streak
 
-📧 Email: benedigraulh@gmail.com  
+<div align="center">
 
-🌐 GitHub:  
-https://github.com/Benedig19
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Benedig19&theme=tokyonight&hide_border=true"/>
 
-🌐 GitLab:  
-https://gitlab.com/Benedig4
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Benedig19&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🚀 Proyectos Destacados
+
+| Proyecto | Tecnología | Estado |
+|---|---|---|
+| Sistema de Inventario | Django + MySQL | 🚀 |
+| App Flutter | Flutter + Dart | 🚀 |
+| Dashboard BI | Power BI | 🚀 |
+| Sistema Web Full Stack | Angular + Node.js | 🚀 |
+| Automatización TI | Python | 🚀 |
+
+---
+
+# 📈 Actividad
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Benedig19&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Contacto
+
+<div align="center">
+
+<a href="mailto:benedigraulh@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Benedig19">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://gitlab.com/Benedig4">
+<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=black"/>
+</a>
+
+</div>
 
 ---
 
 # ⚡ Frase
 
-"El código convierte ideas en realidad"
+<div align="center">
+
+## 💡 "El código transforma ideas en innovación"
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=120&section=footer"/>
+
+</div>
